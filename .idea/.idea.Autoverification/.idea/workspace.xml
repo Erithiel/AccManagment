@@ -9,8 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="117da9cb-3486-4e6b-b204-c0c92d29a325" name="Changes" comment="dsadsadsads">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Autoverification/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Autoverification/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="117da9cb-3486-4e6b-b204-c0c92d29a325" name="Changes" comment="Merge remote-tracking branch 'origin/master'">
       <change beforePath="$PROJECT_DIR$/AccManagment.API" beforeDir="false" afterPath="$PROJECT_DIR$/AccManagment.API" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,7 +17,19 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -144,7 +155,7 @@
       <workItem from="1692103509371" duration="1685000" />
       <workItem from="1692105231642" duration="1155000" />
       <workItem from="1692198579392" duration="179000" />
-      <workItem from="1692260825510" duration="11916000" />
+      <workItem from="1692260825510" duration="12253000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -210,7 +221,55 @@
       <option name="project" value="LOCAL" />
       <updated>1692277392820</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="dsadsadsads">
+      <option name="closed" value="true" />
+      <created>1692277479099</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1692277479099</updated>
+    </task>
+    <task id="LOCAL-00010" summary="dsadsadsadsdadssaddasdass">
+      <option name="closed" value="true" />
+      <created>1692277618191</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1692277618191</updated>
+    </task>
+    <task id="LOCAL-00011" summary="dsadsadsadsfdsafdfsafdfdsfdfdfdssaddadssaddasdass">
+      <option name="closed" value="true" />
+      <created>1692277632769</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1692277632769</updated>
+    </task>
+    <task id="LOCAL-00012" summary="dsadsadsadsfdsafdfsafdfdsfdfdfdssaddadssaddasdass">
+      <option name="closed" value="true" />
+      <created>1692277643766</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1692277643766</updated>
+    </task>
+    <task id="LOCAL-00013" summary="dsadsadsadsfdsafdfsafdfdsfdfdfdssaddadssaddasdass">
+      <option name="closed" value="true" />
+      <created>1692277698787</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1692277698787</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1692277768344</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1692277768344</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -244,6 +303,12 @@
     <MESSAGE value="asdsa" />
     <MESSAGE value="Initial commitdsads" />
     <MESSAGE value="dsadsadsads" />
-    <option name="LAST_COMMIT_MESSAGE" value="dsadsadsads" />
+    <MESSAGE value="dasdadsdsa" />
+    <MESSAGE value="dsadsadsadsdadssaddasdass" />
+    <MESSAGE value="dsadfdsafdfsafds" />
+    <MESSAGE value="dasdsad" />
+    <MESSAGE value="dsadsadsadsfdsafdfsafdfdsfdfdfdssaddadssaddasdass" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'" />
   </component>
 </project>
